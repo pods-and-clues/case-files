@@ -2,9 +2,9 @@
 
 ---
 
-## Zentari Labs Lobby, Arrival
+## Larimar Research Institute Lobby, Arrival
 
-Renzo stepped into Zentari Labs for the first time, his eyes widen as he took in the chrome and glass lobby, sunlight pouring through floor to ceiling windows in soft blues and silver tones that felt almost futuristic. Beside him, Inspector Pupps sat alert but calm, golden curls glowing in the morning light like they belonged here.
+Renzo stepped into Larimar Research Institute for the first time, his eyes widen as he took in the chrome and glass lobby, sunlight pouring through floor to ceiling windows in soft blues and silver tones that felt almost futuristic. Beside him, Inspector Pupps sat alert but calm, golden curls glowing in the morning light like they belonged here.
 
 Renzo wasn’t so sure he did.
 
@@ -12,7 +12,7 @@ The space buzzed with movement and quiet confidence, like everyone else had alre
 
 "What if I’m not ready? What if they realize I don’t belong?"
 
-![Renzo in awe of the Zentari Labs Lobby](../assets/case-000/renzo-lobby.jpg)
+![Renzo in awe of the Larimar Research Institute Lobby](../assets/case-000/renzo-lobby.jpg)
 
 Renzo adjusted the strap on his bookbag, nerves prickling just beneath his skin.
 He glanced down at Pupps, who gave a soft, grounding huff, a reminder that he wasn’t alone.
@@ -89,7 +89,7 @@ As the final intern stepped into the room, the lights dimmed. A soft chime echoe
 
 ![Hiro enters the intern workspace](../assets/case-000/hiro-orientation.jpg)
 
-"Welcome to Zentari Labs" he said, voice calm and reassuring. "My name is Hiro and I will be one of the leading mentors in this cohort. You weren’t just chosen for your skills, you were chosen because you’re curious. And in this place, only the curious move forward. You are Cohort 4 of Project Nova. Thousands applied. Only eight were selected"
+"Welcome to Larimar Research Institute" he said, voice calm and reassuring. "My name is Hiro and I will be one of the leading mentors in this cohort. You weren’t just chosen for your skills, you were chosen because you’re curious. And in this place, only the curious move forward. You are Cohort 4 of Project Nova. Thousands applied. Only eight were selected"
 
 Dev whispered, "Only the curious get chosen, interesting."
 
@@ -111,7 +111,7 @@ Renzo stared at the screen. Next to him, Dev was already typing. Zara was skimmi
 
 Renzo exhaled. He tapped the trackpad. The screen blinked to life.
 
-*Welcome to Zentari Labs*
+*Welcome to the Larimar Research Institute*
 
 *Press ENTER to begin the first case...*
 
