@@ -93,46 +93,36 @@ As the final intern stepped into the room, the lights dimmed. A soft chime echoe
 
 Dev whispered, "Only the curious get chosen, interesting."
 
-"Project Nova is a fully immersive experience. You’ll receive new cases, and each one reflects a real world challenge you might face in a cloud native environment. But before each case begins, you’ll complete a brief training module. These are delivered directly to your terminal. Complete the module, and then unlock the case."
+"Project Nova is a fully immersive experience. You’ll receive new cases, and each one reflects a real world challenge you might face in a cloud native environment. Every case blends the concepts you need to learn with the hands-on challenges that put them to the test."
 
 Zara leaned back slightly, arms crossed.
 
-"Your first tasks begins with how apps have evolved and the need for Kubernetes. You’ll be introduced to the CLI short for command line interface and kubectl, short for Kubernetes Control. There has been debate on how to pronounce it. But if you want to stand out and be right it’s kyoob-see-tee-ell."
+"Your first case begins with how apps have evolved and the need for Kubernetes. You’ll be introduced to the CLI, short for command-line interface, and kubectl, short for Kubernetes Control. There has been debate on how to pronounce it. But if you want to stand out and be right, it’s kyoob-see-tee-ell."
 
 Renzo nodded slightly to himself.
 
-"Training modules will teach you what you need to know while the cases will show you if you’ve truly learned it."
+"Each case will teach you what you need to know and show you how to apply it."
 
 The hologram folded down like origami into a single blinking prompt.
 
 "Good luck, Cohort 4. Your journey starts now" he added, already walking toward the exit. He didn’t look back, he didn’t need to. The door slid closed behind him with a soft hiss. The room returned to normal light.
 
-Renzo stared at the screen. Next to him, Dev was already typing. Zara was skimming the training module. Pupps had curled up under the desk again, a small safe zone.
+Renzo stared at the screen. Next to him, Dev was already typing. Zara was skimming the case briefing. Pupps had curled up under the desk again, a small safe zone.
 
 Renzo exhaled. He tapped the trackpad. The screen blinked to life.
 
 *Welcome to Zentari Labs*
 
-*Press ENTER to begin the training module...*
+*Press ENTER to begin the first case...*
 
 He nervously pressed ENTER.
 
-![Renzo entering his first training module on his laptop](../assets/case-000/renzo-on-laptop.jpg)
+![Renzo beginning his first case on his laptop](../assets/case-000/renzo-on-laptop.jpg)
 
 Pupps sat close, his quiet presence grounding. Between him and the two he'd just met… maybe, just maybe, everything would turn out alright.
 
 ---
 
-## Nova Knowledge Check  
-*Pre-Case Readiness Verification*  
-To proceed with **Training Module 001**, all interns must confirm foundational knowledge from the overview.
-
----
-
-{% include "includes/interactive-quiz-component.html" %}
-
----
-
 To continue your journey:
 
-👉 [**Enter Training Module 001 – The Evolution of the App**](../training-modules/tm-001.md)
+👉 [**Continue to Case 001 – The Scale Factor**](case-001.md)

@@ -3,7 +3,7 @@
 **© 2025 Reynaldo Linares. All rights reserved.**  
 *Pods & Clues* is an original educational storytelling project created by Reynaldo Linares to make Kubernetes learning fun, accessible, and immersive.
 
-All characters, training modules, and world-building elements within the Pods & Clues universe are original creations authored by Reynaldo Linares. The project blends narrative, visual design, and hands-on exploration to teach core cloud engineering concepts.
+All characters, case materials, and world-building elements within the Pods & Clues universe are original creations authored by Reynaldo Linares. The project blends narrative, visual design, and hands-on exploration to teach core cloud engineering concepts.
 
 Select visual assets were developed using AI-assisted tools, guided entirely by the creator’s direction. This includes:
 - Defining character appearances, personalities, and arcs  

@@ -1,38 +1,36 @@
 # Pods & Clues
 
-**Story driven Kubernetes learning through mystery, characters, and hands-on cases.**  
-Created by Reynaldo Linares.
+**Story driven Kubernetes learning through mystery, characters, and hands on cases.**
 
----
+Pods & Clues is a story led learning series for beginners and Kubernetes certification learners. Explore CKAD, CKA, and CKS concepts through realistic troubleshooting cases, and an ongoing mystery.
 
-## 🔍 What is Pods & Clues?
+**[Start Case 000: The Curious Ones](./docs/cases/case-000.md)** · **[Visit the live site](https://www.podsandclues.com)**
 
-**Pods & Clues** is an original educational storytelling project that teaches Kubernetes through cases.
+## 🗺️ Explore the series
 
-Set inside the futuristic Larimar Research Institute, the series follows a cohort of apprentices as they navigate technical puzzles, uncover cloud secrets, and grow into real cloud engineers. With the help of their trusty support dog, Inspector Pupps, each case is a blend of learning and detective-style exploration.
+- 🧩 **[Case 000: The Curious Ones](./docs/cases/case-000.md)** – Begin the mystery and meet the cohort.
+- 🌐 **[Browse the full site](https://www.podsandclues.com)** – Read the complete series online.
 
-Whether you're prepping for the CKAD exam or just curious about Kubernetes, this project makes the cloud fun, accessible, and unforgettable.
+## 🛠️ Run the site locally
 
----
+To preview the site on your machine:
 
-## ✨ What You'll Find
+```powershell
+pip install -r requirements.txt
+mkdocs serve
+```
 
-- 🧠 **Narrative Training Modules** – Short guides that explain Kubernetes concepts in a beginner-friendly voice  
-- 🧩 **Mystery Case Files** – Episodic stories where you solve real-world Kubernetes challenges  
-- 🐾 **Character-Driven Learning** – Follow Renzo, Zara, Dev, and Pupps through a season-long story arc  
+Then open <http://127.0.0.1:8000> in your browser.
 
----
+## 📬 Collaboration and inquiries
 
-## 📬 Contact & Collaboration
+For collaboration, educational licensing, partnership, or adaptation inquiries, please contact the creator. Because the project content is copyrighted, please request written permission before copying, modifying, distributing, or using its stories, training materials, visuals, or designs.
 
-Want to contribute, collaborate, or adapt this for your school or bootcamp?
-
-**Email:** rlinares416@gmail.com  
+**Email:** [rlinares416@gmail.com](mailto:rlinares416@gmail.com)
 **Author:** [Reynaldo Linares](https://github.com/reyrey16/)
 
 ---
 
 ## ⚠️ License & Use
 
-All content, including narrative, characters, visuals, and YAML examples, is protected under copyright.  
-See the [Copyright](./docs/copyright.md) page for details.
+© 2026 Reynaldo Linares. All rights reserved. All narrative, characters, visuals, training materials, and design structures are protected by copyright. See the [Copyright and permissions](./docs/copyright.md) page for complete terms.
