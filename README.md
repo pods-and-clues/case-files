@@ -4,23 +4,7 @@
 
 Pods & Clues is a story led learning series for beginners and Kubernetes certification learners. Explore CKAD, CKA, and CKS concepts through realistic troubleshooting cases, and an ongoing mystery.
 
-**[Start Case 000: The Curious Ones](./docs/cases/case-000.md)** · **[Visit the live site](https://www.podsandclues.com)**
-
-## 🗺️ Explore the series
-
-- 🧩 **[Case 000: The Curious Ones](./docs/cases/case-000.md)** – Begin the mystery and meet the cohort.
-- 🌐 **[Browse the full site](https://www.podsandclues.com)** – Read the complete series online.
-
-## 🛠️ Run the site locally
-
-To preview the site on your machine:
-
-```powershell
-pip install -r requirements.txt
-mkdocs serve
-```
-
-Then open <http://127.0.0.1:8000> in your browser.
+**[Start Case 000: The Curious Ones](https://www.podsandclues.com/)**
 
 ## 📬 Collaboration and inquiries
 
@@ -28,8 +12,6 @@ For collaboration, educational licensing, partnership, or adaptation inquiries, 
 
 **Email:** [rlinares416@gmail.com](mailto:rlinares416@gmail.com)
 **Author:** [Reynaldo Linares](https://github.com/reyrey16/)
-
----
 
 ## ⚠️ License & Use
 
