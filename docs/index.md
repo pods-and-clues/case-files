@@ -1,5 +1,8 @@
 <div class="case-home">
   <section class="case-home__hero" aria-labelledby="case-home-title">
+  <div class="classification-stamp">
+  INTERNAL | PROJECT SAPPHIRE
+</div>
     <span class="case-home__parallax case-home__parallax--grid" aria-hidden="true"></span>
     <span class="case-home__parallax case-home__parallax--glow" aria-hidden="true"></span>
     <div class="case-home__hero-grid">

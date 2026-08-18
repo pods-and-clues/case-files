@@ -15,6 +15,23 @@
   color: #f4eddf;
 }
 
+.classification-stamp {
+  display: inline-block;
+  padding: 0.4rem 0.8rem;
+
+  border: 2px solid #a83232;
+  color: #a83232;
+
+  font-family: monospace;
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+
+  transform: rotate(-3deg);
+  opacity: 0.85;
+}
+
 /* Custom footer color to match header */
 .md-footer {
   background-color: #0b1823 !important;
@@ -387,17 +404,21 @@ footer.md-footer a:hover {
 .case-home__cover img { border: .45rem solid var(--case-paper-deep); box-shadow: .8rem 1rem 1.8rem rgba(0, 0, 0, .42); display: block; position: relative; width: 100%; }
 
 .case-home__cover-label {
-  background: var(--case-red);
-  color: var(--case-paper);
+  background: #101214;
+  color: var(--case-red);
+  border: 2px solid var(--case-red);
+  font-family: monospace;
   font-size: 1rem;
-  font-weight: 900;
-  letter-spacing: .1em;
-  padding: .5rem 1rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  padding: 0.6rem 1.2rem;
   position: absolute;
-  bottom: .8rem;
-  right: -.5rem;
+  bottom: 0.8rem;
+  right: -0.5rem;
   text-transform: uppercase;
   transform: rotate(3deg);
+  opacity: 1;
+  box-shadow: 3px 3px 0 rgba(0, 0, 0, 0.35);
   z-index: 1;
 }
 
