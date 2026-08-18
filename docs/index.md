@@ -17,7 +17,7 @@
         <div class="case-home__cover-title">
           <span>Pods &amp; Clues<sup>™</sup></span>
         </div>
-                <div class="case-home__cover-series">Kubernetes Mystery Series</div>
+                <div class="case-home__cover-series">A Kubernetes Mystery Series</div>
 
         <span class="case-home__cover-label">Case 000</span>
         <img
