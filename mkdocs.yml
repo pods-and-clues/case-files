@@ -20,7 +20,7 @@ theme:
       primary: slate
       accent: custom
   font:
-    text: Inter
+    text: Source Serif 4
     code: JetBrains Mono
 
 nav:
