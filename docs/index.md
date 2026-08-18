@@ -14,8 +14,15 @@
         <a class="case-home__cta" href="cases/case-000">Open Case 000 <span aria-hidden="true">→</span></a>
       </div>
       <figure class="case-home__cover">
+        <div class="case-home__cover-title">
+          <span>Pods &amp; Clues</span>
+        </div>
+                <div class="case-home__cover-series">Kubernetes Mystery Series</div>
+
         <span class="case-home__cover-label">Case 000</span>
-        <img src="assets/homepage/pods-and-clues-case-000-cover.jpg" alt="Pods and Clues: Case 000 cover art">
+        <img
+          src="assets/homepage/case-000-cover.png"
+          alt="Pods & Clues: Case 000 cover art">
       </figure>
     </div>
   </section>

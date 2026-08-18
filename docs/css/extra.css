@@ -42,6 +42,52 @@
   color: rgba(244, 237, 223, 0.8);
 }
 
+.md-footer.casefile-footer {
+  text-align: center;
+  font-size: 0.85rem;
+  line-height: 1.6;
+}
+
+.casefile-footer__title {
+  margin-bottom: 0.2rem;
+}
+
+.casefile-footer__line,
+.casefile-footer__status,
+.casefile-footer__message,
+.casefile-footer__classification,
+.casefile-footer__legal {
+  margin: 0;
+}
+
+.casefile-footer__status,
+.casefile-footer__message {
+  margin: 0.6rem 0;
+}
+
+.casefile-footer__mono {
+  font-family: monospace;
+}
+
+.casefile-footer__classification {
+  margin: 0.8rem auto;
+  max-width: 600px;
+  font-size: 0.7rem;
+  opacity: 0.7;
+}
+
+.casefile-footer__legal {
+  margin-top: 0.8rem;
+  font-size: 0.75rem;
+  padding: 1em;
+  color: var(--md-typeset-color--light);
+}
+
+.casefile-footer__link {
+  color: inherit;
+  text-decoration: underline;
+}
+
 .md-footer a {
   color: #d1a84c;
 }
@@ -319,6 +365,15 @@ footer.md-footer a:hover {
   box-shadow: 0 1.4rem 3.6rem rgba(7, 17, 25, .25);
   color: var(--case-paper);
   padding: clamp(2rem, 6vw, 5rem);
+  position: relative;
+}
+
+.case-home__hero .classification-stamp {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  z-index: 2;
+  backdrop-filter: blur(2px);
 }
 
 .case-home__parallax {
@@ -401,7 +456,68 @@ footer.md-footer a:hover {
 .case-home__cta span { font-size: 1.1rem; margin-left: .35rem; }
 .case-home__cta-note { color: rgba(244, 237, 223, .65); font-size: .78rem; margin: 1.15rem 0 0; }
 
-.case-home__cover { margin: 0 auto; max-width: 17rem; position: relative; transform: rotate(3deg); }
+.case-home__cover {
+  position: relative;
+  margin: 0 auto;
+  max-width: 17rem;
+  transform: rotate(3deg);
+}
+
+.case-home__cover-title {
+  position: absolute;
+  top: 1.25rem;
+  left: 0;
+  right: 0;
+  z-index: 2;
+  padding: 0 0.5rem;
+
+  text-align: center;
+  color: #f2eee4;
+
+  text-shadow:
+    0 2px 4px rgba(0, 0, 0, 0.9),
+    0 0 14px rgba(0, 0, 0, 0.7);
+}
+
+.case-home__cover-title span {
+  display: block;
+
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1.2rem, 2.5vw, 2.1rem);
+  font-weight: 900;
+  letter-spacing: 0.04em;
+  line-height: 1;
+  text-transform: uppercase;
+  white-space: nowrap;
+  text-shadow:
+    0 2px 4px rgba(0, 0, 0, 0.9),
+    0 0 14px rgba(0, 0, 0, 0.7);
+}
+
+.case-home__cover-series {
+  position: absolute;
+  left: 50%;
+  top: 3.5rem;
+  transform: translateX(-50%);
+  z-index: 2;
+
+  padding: 0.12rem 0.45rem;
+  border-top: 1px solid rgba(242, 238, 228, 0.75);
+  border-bottom: 1px solid rgba(242, 238, 228, 0.75);
+
+  font-family: monospace;
+  font-size: 0.52rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: rgba(242, 238, 228, 0.9);
+  text-align: center;
+  white-space: nowrap;
+  text-shadow:
+    0 2px 4px rgba(0, 0, 0, 0.9),
+    0 0 14px rgba(0, 0, 0, 0.7);
+}
+
 .case-home__cover::before { content: ''; inset: -.6rem; position: absolute; transform: rotate(-4deg); }
 .case-home__cover img { border: .45rem solid var(--case-paper-deep); box-shadow: .8rem 1rem 1.8rem rgba(0, 0, 0, .42); display: block; position: relative; width: 100%; }
 
@@ -410,18 +526,18 @@ footer.md-footer a:hover {
   color: var(--case-red);
   border: 2px solid var(--case-red);
   font-family: monospace;
-  font-size: 1rem;
+  font-size: 0.75rem;
   font-weight: 800;
   letter-spacing: 0.12em;
-  padding: 0.6rem 1.2rem;
+  padding: 0.4rem 0.8rem;
   position: absolute;
   bottom: 0.8rem;
   right: -0.5rem;
   text-transform: uppercase;
   transform: rotate(3deg);
-  opacity: 1;
+  opacity: 0.9;
   box-shadow: 3px 3px 0 rgba(0, 0, 0, 0.35);
-  z-index: 1;
+  z-index: 2;
 }
 
 .case-home__process {
@@ -451,6 +567,8 @@ footer.md-footer a:hover {
 .case-home__closing > p:not(.case-home__eyebrow) { margin: 1rem auto 1.7rem; max-width: 31rem; }
 .case-home__cta--light { background: var(--case-paper); border-color: var(--case-paper); }
 
+
+
 @media (max-width: 52rem) {
   .case-home { margin-top: 0; }
   .case-home__hero-grid { grid-template-columns: 1fr; }
@@ -465,6 +583,11 @@ footer.md-footer a:hover {
 
 @media (max-width: 30rem) {
   .case-home__hero { border-radius: 0; margin-inline: -1rem; }
+  .case-home__hero .classification-stamp {
+    position: static;
+    display: inline-block;
+    margin-bottom: 1rem;
+  }
   .case-home__process { margin-inline: 0; padding-inline: 1.25rem; }
   .case-home__steps { grid-template-columns: 1fr; }
 }
