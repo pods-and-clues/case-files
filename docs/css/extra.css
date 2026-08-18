@@ -340,7 +340,7 @@ footer.md-footer a:hover {
   transform: translate(24%, -15%);
 }
 
-.case-home__hero-grid { align-items: center; display: grid; gap: clamp(2rem, 5vw, 5rem); grid-template-columns: minmax(0, 1.25fr) minmax(13rem, .75fr); }
+.case-home__hero-grid { align-items: center; display: grid; gap: clamp(2rem, 5vw, 5rem); grid-template-columns: minmax(0, 1.25fr) minmax(13rem, 1fr); }
 
 .case-home__eyebrow,
 .case-home__section-heading > p {
