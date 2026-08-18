@@ -8,7 +8,7 @@
         <p class="case-home__kicker">A Kubernetes Mystery Series</p>
         <p class="case-home__lede">Eight interns. A secretive organization. A string of incidents that don’t add up.</p>
         <p class="case-home__summary">As Kubernetes failures leave behind a trail of clues, you’ll investigate each case, diagnose what went wrong, and uncover what Larimar Research Institute is hiding.</p>
-        <a class="case-home__cta" href="cases/case-000.md">Open Case 000 <span aria-hidden="true">→</span></a>
+        <a class="case-home__cta" href="cases/case-000">Open Case 000 <span aria-hidden="true">→</span></a>
       </div>
       <figure class="case-home__cover">
         <span class="case-home__cover-label">Case 000</span>
@@ -32,6 +32,6 @@
   <section class="case-home__closing" aria-labelledby="ready-to-investigate">
     <h2 id="ready-to-investigate">Ready to investigate?</h2>
     <p>Open the first file. Follow the evidence. See where the clues lead.</p>
-    <a class="case-home__cta case-home__cta--light" href="cases/case-000.md">Open Case 000 <span aria-hidden="true">→</span></a>
+    <a class="case-home__cta case-home__cta--light" href="cases/case-000">Open Case 000 <span aria-hidden="true">→</span></a>
   </section>
 </div>
