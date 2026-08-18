@@ -15,7 +15,7 @@
       </div>
       <figure class="case-home__cover">
         <div class="case-home__cover-title">
-          <span>Pods &amp; Clues</span>
+          <span>Pods &amp; Clues<sup>™</sup></span>
         </div>
                 <div class="case-home__cover-series">Kubernetes Mystery Series</div>
 
