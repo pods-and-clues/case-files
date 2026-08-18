@@ -421,7 +421,7 @@ footer.md-footer a:hover {
 .case-home__cta--light { background: var(--case-paper); border-color: var(--case-paper); }
 
 @media (max-width: 52rem) {
-  .case-home { margin-top: 0; }
+  .case-home { margin: 0 0 3rem; }
   .case-home__hero-grid { grid-template-columns: 1fr; }
   .case-home__cover { margin-top: 1.25rem; max-width: 13rem; }
   .case-home__steps { grid-template-columns: repeat(2, 1fr); row-gap: 2rem; }
