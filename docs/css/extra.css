@@ -494,10 +494,22 @@ footer.md-footer a:hover {
     0 0 38px rgba(174, 115, 40, 0.35);
 }
 
+@media (max-width: 30rem) {
+  .case-home__cover-title span {
+    font-size: 1.55rem;
+  }
+
+  .case-home__cover-series {
+    top: 3.05rem;
+    letter-spacing: 0.14em;
+    font-size: 0.48rem;
+  }
+}
+
 .case-home__cover-series {
   position: absolute;
   left: 50%;
-  top: 3.8rem;
+  top: 2.8rem;
   transform: translateX(-50%);
   z-index: 2;
   padding-top: .2rem;
