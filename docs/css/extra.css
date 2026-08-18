@@ -1,3 +1,59 @@
+/* Custom nav bar color to match hero section */
+.md-header {
+  background-color: #0b1823 !important;
+}
+
+.md-header-nav__button {
+  color: rgba(244, 237, 223, 0.7);
+}
+
+.md-header-nav__button:hover {
+  color: #f4eddf;
+}
+
+/* Custom footer color to match header */
+.md-footer {
+  background-color: #0b1823 !important;
+  color: rgba(244, 237, 223, 0.8);
+}
+
+.md-footer__inner {
+  color: rgba(244, 237, 223, 0.8);
+}
+
+.md-footer a {
+  color: #d1a84c;
+}
+
+.md-footer a:hover {
+  color: #f4eddf;
+}
+
+/* Cream background for main content */
+.md-main {
+  background-color: #F5E6D3;
+}
+
+.md-content {
+  background-color: #F5E6D3;
+}
+
+/* Custom gold color theme using Material CSS variables */
+:root > * {
+  --md-primary-fg-color: #d1a84c;
+  --md-primary-fg-color--light: #e4d6bc;
+  --md-primary-fg-color--dark: #a7453d;
+  --md-accent-fg-color: #d1a84c;
+}
+
+.md-typeset a {
+  color: var(--md-accent-fg-color);
+}
+
+.md-typeset a:hover {
+  color: #0b1823;
+}
+
 .feedback-button {
   position: fixed;
   bottom: 20px;
@@ -338,9 +394,10 @@ footer.md-footer a:hover {
 }
 
 .case-home__process {
-  background: var(--case-paper);
+  background: #faf6f0;
   border: 1px solid var(--case-paper-deep);
   border-radius: 1.15rem;
+  box-shadow: 0 1.4rem 3.6rem rgba(7, 17, 25, .25);
   margin: clamp(2rem, 5vw, 4rem) clamp(.5rem, 3vw, 2.75rem) 0;
   padding: clamp(2.5rem, 6vw, 4.75rem) clamp(1.5rem, 5vw, 4rem);
 }
@@ -355,7 +412,7 @@ footer.md-footer a:hover {
 .case-home__steps h3 { color: var(--case-ink); font-size: 1.2rem; line-height: 1.1; margin: .8rem 0 .5rem; }
 .case-home__steps p { color: var(--case-muted); font-size: .84rem; line-height: 1.55; margin: 0; }
 
-.case-home__closing { background: var(--case-red); border-radius: 1.15rem; color: var(--case-paper); margin: clamp(2rem, 5vw, 4rem) auto; max-width: 46rem; padding: clamp(2.5rem, 6vw, 4rem); text-align: center; }
+.case-home__closing { background: var(--case-red); border-radius: 1.15rem; box-shadow: 0 1.4rem 3.6rem rgba(7, 17, 25, .25); color: var(--case-paper); margin: clamp(2rem, 5vw, 4rem) auto; max-width: 46rem; padding: clamp(2.5rem, 6vw, 4rem); text-align: center; }
 .case-home__closing::before, .case-home__closing::after { border: 1px solid rgba(244, 237, 223, .45); content: ''; inset: .55rem; pointer-events: none; position: absolute; }
 .case-home__closing::after { border-width: 0 1px; inset: .25rem .85rem; }
 .case-home__closing .case-home__eyebrow { color: var(--case-paper-deep); }
@@ -383,6 +440,13 @@ footer.md-footer a:hover {
 
 @media (prefers-reduced-motion: reduce) {
   .case-home *, .case-home__parallax { scroll-behavior: auto !important; transition: none !important; }
+}
+
+/* Hide sidebar on desktop */
+@media (min-width: 768px) {
+  .md-sidebar { display: none !important; }
+  .md-content { margin-left: 0 !important; }
+  .md-container { margin-left: 0 !important; }
 }
 
 
