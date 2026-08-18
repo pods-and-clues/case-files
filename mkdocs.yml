@@ -5,7 +5,6 @@ site_url: https://www.podsandclues.com
 theme:
   name: material
   custom_dir: docs/overrides
-  logo: assets/homepage/logo.jpg
   favicon: assets/homepage/favicon.ico
   features:
     - navigation.tabs
@@ -27,12 +26,6 @@ nav:
   - Home: index.md
   - Cases:
     - Case 000: cases/case-000.md
-    - Case 001: cases/case-001.md
-  - Characters:
-    - Dev: characters/dev.md
-    - Inspector Pupps: characters/pupps.md
-    - Renzo: characters/renzo.md
-    - Zara: characters/zara.md
   - Copyright: copyright.md
 
 extra_css:
