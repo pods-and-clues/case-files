@@ -28,6 +28,7 @@ extra_css:
 
 extra_javascript:
   - js/feedback-scroll.js
+  - js/home-parallax.js
 
 markdown_extensions:
   - admonition

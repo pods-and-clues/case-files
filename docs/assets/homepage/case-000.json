@@ -1,0 +1,122 @@
+{
+  "image": {
+    "format": "vertical 2:3",
+    "style": "cinematic anime graphic novel",
+    "preserve_original_composition": true,
+    "preserve_lighting": true,
+    "preserve_character_proportions": true,
+    "preserve_architecture": true,
+    "preserve_colors": true
+  },
+
+  "scene": {
+    "location": "large futuristic glass-and-steel atrium",
+    "time": "bright daytime",
+    "lighting": "dramatic golden sunlight streaming through a glass ceiling",
+    "background": {
+      "sky": "bright blue with fluffy white clouds",
+      "architecture": "modern glass walls, steel beams, balconies, staircases and polished reflective floors",
+      "people": "multiple background students and professionals walking through the atrium"
+    }
+  },
+
+  "main_character": {
+    "position": "center foreground",
+    "view": "seen from behind",
+    "age": "young adult",
+    "hair": "short tightly curled dark hair with a fade",
+    "clothing": {
+      "shirt": "white long-sleeve button-down shirt",
+      "pants": "brown/tan pants",
+      "shoes": "dark shoes"
+    },
+    "pose": "walking forward into the atrium",
+    "expression": "not visible"
+  },
+
+  "backpack": {
+    "position": "center of character's back",
+    "color": "dark navy/black",
+    "style": "technical urban backpack with multiple compartments",
+    "patches": {
+      "main": {
+        "shape": "blue hexagon",
+        "symbol": "white Kubernetes wheel"
+      },
+      "lower_left": {
+        "shape": "dark rectangular patch",
+        "text": ">_",
+        "color": "green"
+      },
+      "lower_right": {
+        "shape": "blue rectangular patch",
+        "text": "YAML",
+        "color": "white"
+      }
+    }
+  },
+
+  "inspector_pupps": {
+    "position": "walking beside character on the right",
+    "appearance": "medium-sized fluffy golden-brown dog",
+    "view": "seen mostly from behind",
+    "tail": "curved upward",
+    "collar": {
+      "color": "red"
+    }
+  },
+
+  "top_title": {
+    "text": "PODS & CLUES",
+    "position": "top center",
+    "font_style": "large bold uppercase condensed lettering",
+    "color": "aged metallic gold",
+    "effect": "warm golden glow with subtle distressed texture"
+  },
+
+  "case_tag": {
+    "position": "bottom right foreground",
+    "rotation": "slightly angled",
+    "style": "physical investigation case-file tag",
+    "background": "cream paper",
+    "border": "dark red/brown",
+    "text": "CASE 000",
+    "text_style": "large distressed dark red stamped lettering",
+    "details": {
+      "right_side": "circular metal-reinforced hole",
+      "bottom_right": "small Kubernetes symbol"
+    }
+  },
+
+  "color_palette": {
+    "primary": [
+      "deep navy",
+      "midnight blue",
+      "royal blue",
+      "cyan",
+      "sky blue"
+    ],
+    "accent": [
+      "gold",
+      "warm yellow",
+      "orange",
+      "red"
+    ]
+  },
+
+  "editing_rules": {
+    "preserve_unedited_elements": true,
+    "only_modify_requested_elements": true,
+    "do_not_change_camera_angle": true,
+    "do_not_change_character_identity": true,
+    "do_not_change_background_architecture": true,
+    "do_not_change_typography_unless_requested": true,
+    "do_not_add_unrequested_objects": true,
+    "maintain_anime_graphic_novel_style": true,
+    "maintain_cinematic_lighting": true
+  },
+
+  "edits": [
+    "make the case tag 50% smaller and make the tag fully visible in the frame"
+  ]
+}
