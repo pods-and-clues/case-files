@@ -66,8 +66,6 @@ As the doors slid open, a glowing hallway stretched out, white walls, blue floor
 
 Only the curious get chosen.
 
-![First view of the training room](../assets/case-000/scene-4.png)
-
 Dev stepped out first, grinning. "I like the vibes already."
 
 The room was a spacious training floor with individual desks, each with a Zentari laptop. Renzo counted eight in total. 
@@ -79,8 +77,6 @@ Zara didn’t turn. "Eight total. We’re just early."
 Renzo slid into the seat farthest from the door. Pupps curled up beside his chair without a sound. Zara took the spot two seats down. Dev sat between them. 
 
 Four other interns stepped into the room. Some walked directly to their laptops. Others hovered, scanning the space like they weren’t sure where to sit. No one said much. Then came the last: a tall girl with silver glasses with a low side braid. She gave a polite nod to no one in particular and made her way to a desk at the other far end.
-
-![8th intern enters the training room](../assets/case-000/scene-5.png)
 
 As the final intern stepped into the room, the lights dimmed. A soft chime echoed overhead. Then, with quiet confidence, a sharply dressed man entered behind them. He moved to the center of the room, raised a hand, and the space responded. A glowing “Z” emblem shimmered into view, slowly rotating before unfolding into a full holographic display.
 
