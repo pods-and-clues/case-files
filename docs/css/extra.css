@@ -511,7 +511,7 @@ footer.md-footer a:hover {
 
   .case-home__cover-series {
     top: 3.05rem;
-    letter-spacing: 0.14em;
+    letter-spacing: 0.15em;
     font-size: 0.48rem;
   }
 }
@@ -531,7 +531,7 @@ footer.md-footer a:hover {
   font-family: monospace;
   font-size: 0.52rem;
   font-weight: 700;
-  letter-spacing: 0.18em;
+  letter-spacing: 0.15em;
   text-transform: uppercase;
   color: #fff6e8;
   text-align: center;
