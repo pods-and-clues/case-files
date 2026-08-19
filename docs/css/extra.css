@@ -3,10 +3,6 @@
   background-color: #0b1823 !important;
 }
 
-.md-header__button.md-logo {
-  display: none !important;
-}
-
 .md-header-nav__button {
   color: rgba(244, 237, 223, 0.7);
 }

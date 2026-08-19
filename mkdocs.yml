@@ -6,6 +6,7 @@ theme:
   name: material
   custom_dir: docs/overrides
   favicon: assets/homepage/favicon.ico
+  logo: assets/homepage/pods-and-clues-logo-transparent.png
   features:
     - navigation.tabs
     - navigation.top
