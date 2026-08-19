@@ -21,7 +21,7 @@
 
         <span class="case-home__cover-label">Case 000</span>
         <img
-          src="assets/homepage/case-000-cover.png"
+          src="assets/homepage/case-000-dark.png"
           alt="Pods & Clues: Case 000 cover art">
       </figure>
     </div>
