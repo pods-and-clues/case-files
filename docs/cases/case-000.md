@@ -12,7 +12,7 @@ The space buzzed with movement and quiet confidence, like everyone else had alre
 
 "What if I’m not ready? What if they realize I don’t belong?"
 
-![Renzo in awe of the Larimar Research Institute Lobby](../assets/case-000/renzo-lobby.jpg)
+![Renzo in awe of the Larimar Research Institute Lobby](../assets/homepage/case-000-dark.png)
 
 Renzo adjusted the strap on his bookbag, nerves prickling just beneath his skin.
 He glanced down at Pupps, who gave a soft, grounding huff, a reminder that he wasn’t alone.
@@ -22,8 +22,6 @@ A sharp tap of sneakers on polished tile snapped his attention to the entrance b
 Zara had arrived.
 
 Her curls bounced with each stride, blonde highlights catching the light. She moved with quiet precision. She had a rust blazer, jeans, white sneakers, gold earrings, and a tote slung confidently over one shoulder.
-
-![Zara entered the lobby confidently](../assets/case-000/zara-lobby.jpg)
 
 She met Renzo’s eyes and offered a small, composed smile.
 Not overly warm. But real. Like she saw him.
@@ -38,7 +36,6 @@ Before the silence settled too heavily, the lobby doors opened again.
 
 Dev stepped in, hoodie layered over a t-shirt, jeans, and a bag packed like he was staying the night. His eyes lit up at the sight of the others.
 
-![Dev entering the lobby for the first time excited to see other interns](../assets/case-000/dev-lobby.jpg)
 
 “Yo! You Nova too?” Dev grinned, his energy already filling the space as he offered a fist bump.
 
@@ -87,8 +84,6 @@ Four other interns stepped into the room. Some walked directly to their laptops.
 
 As the final intern stepped into the room, the lights dimmed. A soft chime echoed overhead. Then, with quiet confidence, a sharply dressed man entered behind them. He moved to the center of the room, raised a hand, and the space responded. A glowing “Z” emblem shimmered into view, slowly rotating before unfolding into a full holographic display.
 
-![Hiro enters the intern workspace](../assets/case-000/hiro-orientation.jpg)
-
 "Welcome to Larimar Research Institute" he said, voice calm and reassuring. "My name is Hiro and I will be one of the leading mentors in this cohort. You weren’t just chosen for your skills, you were chosen because you’re curious. And in this place, only the curious move forward. You are Cohort 4 of Project Nova. Thousands applied. Only eight were selected"
 
 Dev whispered, "Only the curious get chosen, interesting."
@@ -117,12 +112,10 @@ Renzo exhaled. He tapped the trackpad. The screen blinked to life.
 
 He nervously pressed ENTER.
 
-![Renzo beginning his first case on his laptop](../assets/case-000/renzo-on-laptop.jpg)
-
 Pupps sat close, his quiet presence grounding. Between him and the two he'd just met… maybe, just maybe, everything would turn out alright.
 
 ---
 
 To continue your journey:
 
-👉 [**Continue to Case 001 – The Scale Factor**](case-001.md)
+👉 [**Continue to Case 001 – ???**](case-001.md)
