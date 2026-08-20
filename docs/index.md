@@ -1,7 +1,7 @@
 <div class="case-home">
   <section class="case-home__hero" aria-labelledby="case-home-title">
   <div class="classification-stamp">
-  INTERNAL | PROJECT SAPPHIRE
+  INTERNAL LRI USE ONLY
 </div>
     <span class="case-home__parallax case-home__parallax--grid" aria-hidden="true"></span>
     <span class="case-home__parallax case-home__parallax--glow" aria-hidden="true"></span>
