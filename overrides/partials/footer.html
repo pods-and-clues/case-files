@@ -1,0 +1,75 @@
+<footer class="md-footer casefile-footer">
+
+  <p class="casefile-footer__title">
+    <strong>LARIMAR RESEARCH INSTITUTE</strong>
+  </p>
+
+  <p class="casefile-footer__line">
+    MONITORING CONSOLE
+  </p>
+
+  <p class="casefile-footer__status">
+    <span class="casefile-footer__mono">
+      SYSTEM STATUS: <strong>OPERATIONAL</strong>
+    </span>
+  </p>
+
+  <p class="casefile-footer__message">
+    Case updates are issued on a need-to-know basis.
+    <br>
+    <a href="https://rebrand.ly/t4n0fr5" target="_blank">
+      Follow Rey Linares on LinkedIn
+    </a>
+    for mission-critical alerts.
+  </p>
+
+  <p class="casefile-footer__classification">
+    CLASSIFICATION: INTERNAL
+  </p>
+
+  <p class="casefile-footer__legal">
+    © 2026 Reynaldo Linares. All rights reserved.
+    <br>
+    Pods & Clues™ and all associated content are original works created by Reynaldo Linares.
+    <a href="/copyright/" class="casefile-footer__link">
+      Learn more
+    </a>.
+  </p>
+
+</footer>
+
+
+<div class="feedback-float" onclick="openFeedbackModal()">
+  💬 Give Feedback
+</div>
+
+<!-- Feedback Modal -->
+<div id="feedbackModal" class="feedback-modal">
+  <div class="feedback-modal-content">
+    <span class="feedback-close" onclick="closeFeedbackModal()">&times;</span>
+    <div class="feedback-form-wrapper">
+      <h3>We’d love your feedback!</h3>
+      <p>Spotted a bug? Have a suggestion or even an idea for a future case? Let us know, we’re listening.</p>
+
+      <form id="feedbackForm">
+        <input type="hidden" name="_subject" value="New Feedback from Pods & Clues">
+        <input type="hidden" name="_captcha" value="false">
+        <input type="hidden" name="page_url" id="page-url">
+      
+        <label for="message"><strong>Your message:</strong></label><br>
+        <textarea name="message" rows="6" required placeholder="Tell us what you noticed or your idea..."></textarea><br><br>
+      
+        <label for="email"><strong>Your email (optional):</strong></label><br>
+        <input type="email" name="email" placeholder="you@example.com"><br><br>
+      
+        <button type="submit" id="feedbackSubmitBtn">Submit Feedback</button>
+      </form>
+      
+      <!-- Placeholder for success -->
+      <div id="feedbackSuccess" style="display: none;">
+        <h3>✅ Thank you!</h3>
+        <p>Your feedback was sent successfully.</p>
+      </div>
+    </div>
+  </div>
+</div>
